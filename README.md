@@ -1,35 +1,31 @@
-Github Status
+OSX-widget-creation-template
 =======
-A Widget for MAC OSX dashboard
-
-[Screenshot](http://kinncj.com.br/githubstatus.png)
+A Widget packager for MAC OSX Dashboard, without Dashcode
 
 About
 ======
-This is an easy way to see when github is UP or Down
-Motivation and decision
+This is an easy way to package a widget from source folder
+
+Motivation
 ======
 
-* Motivation
-    * The need to see the github status without open github webpage
-
-* Decision
-    * A cold night, so let's code... and that's it!
-
+* The need to simplify widget creation process
 
 Usage
 ======
 
-    clone the repo, check the build folder and double click at the WDGT file!
+1.   git clone https://github.com/thunderrabbit/OSX-widget-creation-template.git YourWidgetName
+1.   run the create.sh file
+1.   ????
+1.   deploy your own widgets!
 
 Contributing
 ======
-Feel free to help us creating issues and PRs ;)
+Feel free to make the create.sh more robust ;)
 
 License - MIT
 ======
-Copyright 2012 Kinn Coelho Julião and other contributors
-http://kinncj.com.br/
+Copyright 2014 Rob Nugen
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
