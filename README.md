@@ -4,17 +4,17 @@ A Widget packager for MAC OSX Dashboard, without Dashcode
 
 About
 ======
-This is an easy way to package a widget from source folder
+This is an easy way to package a widget from source folder, allowing installation of the widget without wiping the source files.
 
-Motivation
+Source
 ======
 
-* The need to simplify widget creation process
+    git clone https://github.com/thunderrabbit/OSX-widget-creation-template.git YourWidgetName
 
-Usage
+After cloning
 ======
 
-1.   git clone https://github.com/thunderrabbit/OSX-widget-creation-template.git YourWidgetName
+1.   change CFBundleIdentifier in plist
 1.   run the create.sh file
 1.   ????
 1.   deploy your own widgets!
