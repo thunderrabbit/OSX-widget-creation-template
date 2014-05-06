@@ -23,9 +23,22 @@ Contributing
 ======
 Feel free to make the create.sh more robust ;)
 
+Acknowledgements
+======
+
+Andrew Hedges https://github.com/segdeha
+
+* for original hello world widget http://andrew.hedges.name/widgets/dev/
+
+Kinn Coelho Julião https://github.com/kinncj/GithubStatus
+
+* for this style README
+
 License - MIT
 ======
-Copyright 2014 Rob Nugen
+The MIT License (MIT)
+
+Copyright (c) 2014 Rob Nugen
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
